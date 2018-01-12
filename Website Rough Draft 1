@@ -34,7 +34,7 @@ and help inspire FIRST to others. The games every year focuses on promoting crea
 
 
 
-//(PRETEND THIS IS A NEW PAGE, SUBTEAMS PAGE......)
+<!––(PRETEND THIS IS A NEW PAGE, SUBTEAMS PAGE......)-->
 
 <!DOCTYPE html> 
 <html>
@@ -77,7 +77,7 @@ project.</h1><img src="CAD_Subteam.jpg" height=75 width=225 style="float:right;"
 <h1 style="float:left;">Robotics is not just all about robots. Being a FIRST team requires every team to project their creativity and their messages to others. The imagery team does 
 exactly that. The imagery team is responsible for the yearly design of the team's T-shirts, as well as designing the team's theme and logo onto the bot and work pit. Members of the imagery
 subteam also maintain social media connections such as Twitter and Instagram to help spread the message of FIRST.</h1><img src="Imagery_Subteam.jpg" height=75 width=225 style="float:right;"/>
-	//I'm not sure if we are going to go through with the social media, remove social media part if not included
+	<!--I'm not sure if we are going to go through with the social media, remove social media part if not included-->
 
 	<h1>
 	<p>Buisness and Marketing</p>
@@ -99,7 +99,7 @@ team's chances of reaching far in the FIRST competitions.</h1><img src="Scout_Te
 </body>
 </html>
 
-	//Image sizes are estimated at a height of 75 and width of 225. These sizes might not be suitable for the text next to it, so change size of images if it is not compatible
+	<!--Image sizes are estimated at a height of 75 and width of 225. These sizes might not be suitable for the text next to it, so change size of images if it is not compatible-->
 
 
 
